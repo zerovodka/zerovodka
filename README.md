@@ -7,8 +7,10 @@
   ### 🐳 zerovodka's GITHUB 🐳
 
  <a href="https://github.com/zerovodka"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fzerovodka&count_bg=%23000000&title_bg=%23000000&icon=github.svg&icon_color=%23E7E7E7&title=GitHub&edge_flat=false)"/></a>
- <!-- <a href="https://solved.ac/zerovodka"><img src="http://mazassumnida.wtf/api/mini/generate_badge?boj=zerovodka"/></a> -->
- <!-- <a href="https://zerovodka.tistory.com/"><img src="https://img.shields.io/badge/TISTORY BLOG-000000?style=flat-square&logo=tistory&logoColor=white"/></a><br> -->
+ <!-- <a href="https://solved.ac/whddls889"><img src="http://mazassumnida.wtf/api/mini/generate_badge?boj=zerovodka"/></a> !-->
+ <a href="https://velog.io/@zerovo_dka/posts"><img src="https://img.shields.io/badge/Velog-000000?style=flat-square&logo=velog&logoColor=white"/></a>
+
+ ⚒️ <a href="https://zerovodka.tistory.com/"><img src="https://img.shields.io/badge/TISTORY BLOG-000000?style=flat-square&logo=tistory&logoColor=white"/></a>⚒️<br>
 
 
 <div align="left">
