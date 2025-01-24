@@ -36,13 +36,13 @@
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white"/></a>
 
 ### Framework
-<img src="https://img.shields.io/badge/react-%2361DAFB.svg?&style=for-the-badge&logo=react&logoColor=white" />
 <img src="https://img.shields.io/badge/next.js-%23000000.svg?&style=for-the-badge&logo=next.js&logoColor=white" />
 <br/>
 <img src="https://img.shields.io/badge/vue.js-%234FC08D.svg?&style=for-the-badge&logo=vue.js&logoColor=white" />
 <img src="https://img.shields.io/badge/nuxt.js-%2300C58E.svg?&style=for-the-badge&logo=nuxt.js&logoColor=white" />
 
 ### Library
+<img src="https://img.shields.io/badge/react-%2361DAFB.svg?&style=for-the-badge&logo=react&logoColor=white" />
 <img src="https://img.shields.io/badge/jotai-%23000000.svg?&style=for-the-badge&logoColor=white" />
 <img src="https://img.shields.io/badge/react%20query-%2361DAFB.svg?&style=for-the-badge&logoColor=white" />
 <img src="https://img.shields.io/badge/react%20hook%20form-3178C6?&style=for-the-badge&logoColor=white" />
